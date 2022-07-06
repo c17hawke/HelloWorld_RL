@@ -1,1 +1,1 @@
-# general_template for OpenAI-Gym-Template-TensorFlow based projects
+# General template for OpenAI-Gym-TensorFlow based projects
